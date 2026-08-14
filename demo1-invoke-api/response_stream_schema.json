@@ -1,0 +1,647 @@
+[
+  {
+    "chunk": {
+      "bytes": "b'{\"messageStart\":{\"role\":\"assistant\"}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\"###\"},\"contentBlockIndex\":0}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":0}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\" Key Decisions Made:\\\\n1.\"},\"contentBlockIndex\":1}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":1}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\" **Feature\"},\"contentBlockIndex\":2}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":2}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\" Cut\"},\"contentBlockIndex\":3}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":3}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\" for\"},\"contentBlockIndex\":4}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":4}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\" Release\"},\"contentBlockIndex\":5}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":5}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\"**: The team\"},\"contentBlockIndex\":6}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":6}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\" decided to cut\"},\"contentBlockIndex\":7}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":7}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\" the fuzzy-match feature from\"},\"contentBlockIndex\":8}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":8}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\" the current\"},\"contentBlockIndex\":9}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":9}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\" version (\"},\"contentBlockIndex\":10}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":10}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\"v1) of\"},\"contentBlockIndex\":11}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":11}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\" the search functionality\"},\"contentBlockIndex\":12}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":12}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\". Only\"},\"contentBlockIndex\":13}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":13}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\" the exact\"},\"contentBlockIndex\":14}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":14}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\"-match feature will be included\"},\"contentBlockIndex\":15}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":15}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\" to\"},\"contentBlockIndex\":16}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":16}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\" meet the release date.\\\\n2\"},\"contentBlockIndex\":17}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":17}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\". **Budget\"},\"contentBlockIndex\":18}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":18}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\" Confirmation\"},\"contentBlockIndex\":19}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":19}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\"**: Sarah\"},\"contentBlockIndex\":20}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":20}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\" will confirm\"},\"contentBlockIndex\":21}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":21}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\" with Finance\"},\"contentBlockIndex\":22}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":22}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\" whether\"},\"contentBlockIndex\":23}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":23}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\" the additional\"},\"contentBlockIndex\":24}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":24}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\" $2000/\"},\"contentBlockIndex\":25}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":25}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\"month cost\"},\"contentBlockIndex\":26}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":26}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\" for the new search infrastructure fits\"},\"contentBlockIndex\":27}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":27}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\" within the Q\"},\"contentBlockIndex\":28}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":28}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\"3 budget before\"},\"contentBlockIndex\":29}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":29}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\" the next sprint.\\\\n\\\\n### Action\"},\"contentBlockIndex\":30}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":30}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\" Items with\"},\"contentBlockIndex\":31}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":31}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\" Owners:\\\\n1. **Share\"},\"contentBlockIndex\":32}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":32}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\" Empty\"},\"contentBlockIndex\":33}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":33}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\"-State Illustration**: \\\\n\"},\"contentBlockIndex\":34}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":34}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\"   - **Owner\"},\"contentBlockIndex\":35}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":35}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\"**: Priya (\"},\"contentBlockIndex\":36}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":36}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\"Design)\\\\n   - **Deadline\"},\"contentBlockIndex\":37}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":37}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\"**: Friday\"},\"contentBlockIndex\":38}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":38}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\" EOD\\\\n   \"},\"contentBlockIndex\":39}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":39}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\"- **Details\"},\"contentBlockIndex\":40}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":40}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\"**: Priya\"},\"contentBlockIndex\":41}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":41}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\" needs to share the empty\"},\"contentBlockIndex\":42}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":42}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\"-state illustration in Slack\"},\"contentBlockIndex\":43}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":43}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\" for asynchronous\"},\"contentBlockIndex\":44}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":44}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\" feedback.\\\\n2. **Confirm\"},\"contentBlockIndex\":45}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":45}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\" Budget\"},\"contentBlockIndex\":46}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":46}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\" with Finance\"},\"contentBlockIndex\":47}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":47}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\"**:\\\\n   - **Owner\"},\"contentBlockIndex\":48}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":48}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\"**: Sarah (\"},\"contentBlockIndex\":49}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":49}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\"PM)\\\\n   - **Deadline\"},\"contentBlockIndex\":50}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":50}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\"**: Before\"},\"contentBlockIndex\":51}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":51}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\" the next sprint\\\\n   \"},\"contentBlockIndex\":52}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":52}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\"- **Details**: Sarah\"},\"contentBlockIndex\":53}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":53}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\" will\"},\"contentBlockIndex\":54}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":54}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\" check with\"},\"contentBlockIndex\":55}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":55}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\" Finance to ensure\"},\"contentBlockIndex\":56}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":56}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\" the additional\"},\"contentBlockIndex\":57}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":57}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\" $2000/\"},\"contentBlockIndex\":58}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":58}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\"month AWS\"},\"contentBlockIndex\":59}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":59}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\" cost is\"},\"contentBlockIndex\":60}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":60}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\" within the Q3 budget.\"},\"contentBlockIndex\":61}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":61}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockDelta\":{\"delta\":{\"text\":\"\"},\"contentBlockIndex\":62}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"contentBlockStop\":{\"contentBlockIndex\":62}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"messageStop\":{\"stopReason\":\"end_turn\"}}'"
+    }
+  },
+  {
+    "chunk": {
+      "bytes": "b'{\"metadata\":{\"usage\":{\"inputTokens\":246,\"outputTokens\":202,\"cacheReadInputTokenCount\":0,\"cacheWriteInputTokenCount\":0},\"metrics\":{},\"trace\":{}},\"amazon-bedrock-invocationMetrics\":{\"inputTokenCount\":246,\"outputTokenCount\":202,\"invocationLatency\":1748,\"firstByteLatency\":146,\"cacheReadInputTokenCount\":0,\"cacheWriteInputTokenCount\":0}}'"
+    }
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "ResponseMetadata": {
+    "RequestId": "c813b8ef-161b-49fa-9530-be92e15ec690",
+    "HTTPStatusCode": 200,
+    "HTTPHeaders": {
+      "date": "Fri, 14 Aug 2026 14:30:59 GMT",
+      "content-type": "application/vnd.amazon.eventstream",
+      "transfer-encoding": "chunked",
+      "connection": "keep-alive",
+      "x-amzn-requestid": "c813b8ef-161b-49fa-9530-be92e15ec690",
+      "x-amzn-bedrock-content-type": "application/json"
+    },
+    "RetryAttempts": 0
+  },
+  "contentType": "application/json",
+  "body": "<botocore.eventstream.EventStream object at 0x7f751972f590>"
+}
