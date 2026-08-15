@@ -116,7 +116,6 @@ def execute_tool(name: str, tool_input: dict) -> dict:
     else:
         return {"error": f"Unknown tool: {name}"}
 
-
 def run_chat() -> None:
     messages = []
 
@@ -164,15 +163,15 @@ def run_chat() -> None:
 
                         tool_results.append(
                             {
-                                "toolResult": {
+                                "toolResult":
+                                    {
                                     "toolUseId": tool_use_id,
-                                    "content": [{"json": result}],
+                                    "content": [{"json": result}]
                                 }
                             }
                         )
 
                 messages.append({"role": "user", "content": tool_results})
-
 
 if __name__ == "__main__":
     run_chat()
