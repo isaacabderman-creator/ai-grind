@@ -15,7 +15,7 @@ QUESTIONS = [
     """,
 ]
 
-PROMPTS = {
+SPECIALIZED_PROMPTS = {
     "MATH": """
     You're a professional math teacher that emphasizes understanding and rigor.
     Answer the user's question step by step and add a small summary at the end of your answer.
@@ -45,7 +45,7 @@ def invoke(prompt: str, temperature: float = 0.0) -> str:
 
     body = {
         "messages": [{"role": "user", "content": [{"text": prompt}]}],
-        "inferenceConfig": {"maxTokens": 512, "temperature": 0.0},
+        "inferenceConfig": {"maxTokens": 256, "temperature": 0.0},
     }
     response = bedrock.invoke_model(
         modelId=MODEL_ID,
@@ -69,9 +69,25 @@ def classify(question: str) -> str:
     return invoke(prompt).strip().upper()
 
 
+def respond_to_questions(question: str, category: str) -> str:
+    template = SPECIALIZED_PROMPTS.get(category, SPECIALIZED_PROMPTS["WRITING"])
+    prompt = template.format(question=question)
+    return invoke(prompt, temperature=0.7)
+
+
 def main() -> None:
     for question in QUESTIONS:
-        print(classify(question))
+        print("Question: ", question)
+        category = classify(question)
+        print("Category: ", category)
+
+        print("-" * 60)
+        answer = respond_to_questions(question, category)
+        print("\n\nAnswer: ", answer)
+        print(
+            "\n\n",
+            "=" * 60,
+        )
 
 
 if __name__ == "__main__":
